@@ -19,6 +19,7 @@ This portion is installing a web server software called Apache 2.
 Resource: http://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/
 
 ## Controlling Raspberry Pi with SSH
+This portion allows you access to the command line of a Raspberry Pi remotely from another computer or device on the same network using SSH.
 
 - Finding the IP address of your Raspberry Pi
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address
