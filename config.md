@@ -33,6 +33,7 @@ Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
 
 Resource: http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
 Resource: http://weworkweplay.com/play/raspberry-pi-nodejs/
+Resource: http://askubuntu.com/questions/49390/how-do-i-install-the-latest-version-of-node-js
 
 ## Issues
 - Raspberry Pi keeps on rebooting!!
