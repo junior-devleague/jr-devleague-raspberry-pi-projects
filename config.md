@@ -32,3 +32,8 @@ Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
 ## Setting Up An Apache Web Server on a Raspberry Pi
 
 Resource: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+
+## Issues
+- Raspberry Pi keeps on rebooting!!
+  The voltage is low. Connect the power cord to an outlet.
+
