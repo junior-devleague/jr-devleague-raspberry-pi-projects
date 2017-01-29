@@ -17,3 +17,13 @@ Resource: https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=82908
 This portion is installing a web server software called Apache 2.
 
 Resource: http://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/
+
+## Controlling Raspberry Pi with SSH
+
+- Finding the IP address of your Raspberry Pi
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address
+
+- If your connection was refused
+http://workshop.raspberrypiaustralia.com/ssh/network/2014/08/31/05-connecting-via-ssh/
+
+Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
