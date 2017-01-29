@@ -33,6 +33,11 @@ Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
 
 Resource: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
 
+## Installing Node.js and NPM to Run Live-Server
+
+Resource: http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
+Resource: http://weworkweplay.com/play/raspberry-pi-nodejs/
+
 ## Issues
 - Raspberry Pi keeps on rebooting!!
   The voltage is low. Connect the power cord to an outlet.
