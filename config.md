@@ -28,3 +28,7 @@ https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding
 http://workshop.raspberrypiaustralia.com/ssh/network/2014/08/31/05-connecting-via-ssh/
 
 Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
+
+## Setting Up An Apache Web Server on a Raspberry Pi
+
+Resource: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
