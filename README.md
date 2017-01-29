@@ -13,6 +13,7 @@ You **must** follow these steps **exactly** or you may destroy the Raspberry Pi.
 7. Run your JavaScript program with Node.js. 
 
 If the components are not working to your exact liking, follow these steps:
+
 **Do NOT dismantle the project until you are complete with the components for the rest of the day and you let the instructor know**
 
 1. Stop the JavaScript program.
