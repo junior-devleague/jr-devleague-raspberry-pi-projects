@@ -29,10 +29,6 @@ http://workshop.raspberrypiaustralia.com/ssh/network/2014/08/31/05-connecting-vi
 
 Resource: https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
 
-## Setting Up An Apache Web Server on a Raspberry Pi
-
-Resource: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
-
 ## Installing Node.js and NPM to Run Live-Server
 
 Resource: http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
