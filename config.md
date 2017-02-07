@@ -31,11 +31,14 @@ Remotely connect to the Raspberry Pi with the command `ssh pi@[ipAddress]` and t
 
 ## Installing Node.js and NPM to Run Live-Server
 
-First run this command
+### Latest Version of Node.js
+1. 
 `wget -qO- https://deb.nodesource.com/setup_7.x | sudo bash -`
 
-Then run this command
+2. 
 `sudo apt-get install -y nodejs`
+
+
 
 You know you are complete with you portion once you are able to run `live-server` on a JavaScript file.
 
