@@ -31,6 +31,12 @@ Remotely connect to the Raspberry Pi with the command `ssh pi@[ipAddress]` and t
 
 ## Installing Node.js and NPM to Run Live-Server
 
+First run this command
+`wget -qO- https://deb.nodesource.com/setup_7.x | sudo bash -`
+
+Then run this command
+`sudo apt-get install -y nodejs`
+
 You know you are complete with you portion once you are able to run `live-server` on a JavaScript file.
 
 - Resource: http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
