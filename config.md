@@ -12,6 +12,10 @@ This portion is configuring your Raspberry Pi to connect to Wifi using Edimax, a
 
 - Resource: https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=82908
 
+#### Multiple Wifi Setup Through Command Line
+
+- Resource: http://www.algissalys.com/how-to/how-to-raspberry-pi-multiple-wifi-setup-through-the-command-line
+
 ## Controlling Raspberry Pi with SSH
 This portion allows you access to the command line of a Raspberry Pi remotely from another computer or device on the same network using SSH.
 
